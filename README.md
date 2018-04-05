@@ -101,7 +101,7 @@ and [GitHub Classroom](https://classroom.github.com/). Additionally, to learn mo
 about how to include emojis in an HTML file, please read the documentation for
 the [Emoji CSS library](https://afeld.github.io/emoji-css/). Finally, don't
 forget to read all of the referenced web sites that are mentioned in the
-provided HTML source code.
+provided HTML source code (e.g., the web site for Bootstrap).
 
 To do well on this assignment, you should also review Chapters 1 through 6 of
 the course textbook, additionally paying close attention to Sections 7.1 through
